@@ -1,6 +1,6 @@
 ## Hi there!!!
 
-I'm a software engineer currently working at the Laboratory for Atmospheric and Space Physics on spacecraft instrument automation software.
+I'm a technical/writer software engineer. My most recent role was working at the Laboratory for Atmospheric and Space Physics on spacecraft instrument automation software.
 
 When I was in high school and early college, I was passionate about programming games.
 This interest has been very helpful for me because it taught me how to effectively write code for long-term projects.
