@@ -5,9 +5,12 @@ I'm a software engineer currently working at the Laboratory for Atmospheric and 
 When I was in high school and early college, I was passionate about programming games.
 This interest has been very helpful for me because it taught me how to effectively write code for long-term projects.
 
-I have five repositories (besides this one) available on my page.
+I have six repositories (besides this one) available on my page.
 
 Here's a description of each of them:
+
+Git Tutorial:
+  - This is a tutorial I wrote for Git to demonstrate my technical writing abilities.
 
 Frontscope:
   - This is an open source math research tool I worked on for a fall internship in undergrad.
