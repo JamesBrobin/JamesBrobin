@@ -17,7 +17,6 @@ Here's a description of each of them:
   - It's official name is Numberscope.
   - I made a grid visualizer based on Ulam's spiral with 9 customizable parameters.
   - You can select any number sequences from the Online Encyclopedia of Number Sequences to test it out.
-  - Here's a link to it: https://numberscope.colorado.edu/doc/src/visualizers/Grid/
 
 [Caldera](https://github.com/JamesBrobin/caldera):
   - This is an open source cybersecurity tool I worked on for a summer internship in high school.
