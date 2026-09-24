@@ -7,13 +7,13 @@ This page contains my technical writing portfolio as well as some software engin
 ### Technical writing portfolio
 
 [Git Tutorial](https://github.com/JamesBrobin/Git-Tutorial):
-  - A 2-hour tutorial for a technical audience on the basics of Git
+  - A 2-hour tutorial for a technical audience on the basics of Git.
 
 [Codex Video Game Tutorial](https://github.com/JamesBrobin/codex-video-game-tutorial)
-  - A 40 minute step-by-step tutorial for a general audience on how to make a video game with Codex
+  - A 40 minute step-by-step tutorial for a general audience on how to make a video game with Codex.
 
 [AWS Cloud Migration Proposal](https://github.com/JamesBrobin/aws-cloud-migration-proposal)
-  - Two page proposal for a government agency to transition to the AWS Cloud
+  - A two page proposal for a government agency to transition to the AWS Cloud.
 
 ### Software engineering projects
 
