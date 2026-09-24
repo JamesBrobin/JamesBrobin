@@ -1,26 +1,26 @@
 ## Hi there!!!
 
-I'm a technical/writer software engineer. My most recent role was working at the Laboratory for Atmospheric and Space Physics on spacecraft instrument automation software.
+I'm a technical writer/software engineer. My most recent role was working at the Laboratory for Atmospheric and Space Physics on a planning and scheduling software for NASA spacecrafts.
 
-This page contains my technical writing portfolio and some software engineering projects I've worked on.
+This page contains my technical writing portfolio as well as some software engineering projects I've worked on.
 
 ### Technical writing portfolio
 
 [Git Tutorial](https://github.com/JamesBrobin/Git-Tutorial):
-  - A tutorial for a semi-technical audience on how to use Git.
+  - A 2-hour tutorial for a technical audience on the basics of Git
 
 [Codex Video Game Tutorial](https://github.com/JamesBrobin/codex-video-game-tutorial)
-  - A step-by-step tutorial for a general audience on how to use Codex to make a video game.
+  - A 40 minute step-by-step tutorial for a general audience on how to make a video game with Codex
 
 [AWS Cloud Migration Proposal](https://github.com/JamesBrobin/aws-cloud-migration-proposal)
-  - A proposal for a government agency to transition to the AWS cloud.
+  - Two page proposal for a government agency to transition to the AWS Cloud
+
+### Software engineering projects
 
 [Frontscope](https://github.com/JamesBrobin/frontscope):
   - An open source math research tool I worked on for a fall internship in undergrad.
   - For this project, I created a grid visualizer based on Ulam's spiral with 9 customizable parameters.
   - You can select any number sequences from the Online Encyclopedia of Number Sequences to test it out.
-
-### Software engineering projects
 
 [Caldera](https://github.com/JamesBrobin/caldera):
   - An open source cybersecurity tool I worked on for a summer internship in high school.
