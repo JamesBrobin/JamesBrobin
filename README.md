@@ -1,6 +1,6 @@
 ## Hi there!!!
 
-I'm a technical writer/software engineer with over two years of experience.
+I'm a technical writer/software engineer.
 
 This page contains my technical writing portfolio as well as some software engineering projects I've worked on.
 
