@@ -1,6 +1,6 @@
 ## Hi there!!!
 
-I'm a technical writer/software engineer. My most recent role was working at the Laboratory for Atmospheric and Space Physics on a planning and scheduling software for NASA spacecrafts.
+I'm a technical writer/software engineer.
 
 This page contains my technical writing portfolio as well as some software engineering projects I've worked on.
 
